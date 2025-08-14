@@ -29,3 +29,14 @@
 .product > .product_img{
   width: 100px;
 }
+
+.skeleton-container{
+  display: flex;
+}
+
+.skeleton{
+  width: 200px;
+  height: 400px;
+  background-color: aliceblue;
+  margin: 10px;
+}
